@@ -1,0 +1,3 @@
+tinytuya>=2.0
+piper-tts
+pycryptodome
