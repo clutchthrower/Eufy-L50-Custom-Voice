@@ -9,7 +9,9 @@ to the Eufy L50 (model T2265) via its Tuya local control interface.
 **Confirmed working on:** Eufy L50 / T2265
 **May work on:** Other Eufy robots that use Tuya DPS 162 (`ecl_set_language`)
 
-https://github.com/clutchthrower/Eufy-L50-Custom-Voice/raw/main/examples/audio/data_intro.mp4
+
+https://github.com/user-attachments/assets/40e11f35-7583-41a7-9b09-f9201baddec1
+
 
 > *"I have found that while my internal processors are capable of 60 trillion operations
 > per second, my primary purpose at this moment is the eradication of feline dander and
